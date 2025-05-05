@@ -1,0 +1,56 @@
+RUDRAA AI ASSISTANT - USER MANUAL
+================================
+
+Welcome to Rudraa AI Assistant! This guide will help you understand how to use all the features of Rudra
+
+1. BASIC CONTROLS
+----------------
+- Start Listening: Click the "Start Listening" button to begin voice recognition
+- Stop Listening: Click again (now showing "Stop Listening") to stop voice input
+- Clear Chat: Removes all conversation history from the display
+- Exit: Closes the application
+
+2. VOICE COMMANDS
+----------------
+2.1 Information Queries
+    - "Tell me about [topic]" - Gets information from Wikipedia
+    Example: "Tell me about KBTCOE NASHIK
+
+2.2 Opening Websites
+   sya "OPEN [WEBSITE_NAME]"
+   example:
+    - "Open youtube"
+    - "Open linkedin"
+    - "Open instagram"
+
+2.3 Opening Applications
+    -Rudra can open apps on voice comand but...
+    - in order to open applications you will have to add path of application in source code as application path and apps varies with device :/
+
+2.4 System Commands
+    - "Turn off" or "Power off" or "Get lost" - Closes the assistant
+
+3. AI CONVERSATION
+-----------------
+- For any other queries, Rudraa uses Gemini AI to provide intelligent responses
+- You can ask questions, request assistance, or engage in general conversation
+
+4. VOICE RECOGNITION TIPS
+------------------------
+- Wait for the "Listening..." status before speaking
+- Each voice command has a 5-second time limit
+
+
+7. SYSTEM REQUIREMENTS
+---------------------
+- Windows OS (for SAPI5 voice)
+- Working microphone
+- Internet connection for:
+  * Voice recognition
+  * Web searches
+  * AI responses
+  * Website access
+
+For technical support or questions, please refer to the source code documentation.
+
+Note: This assistant is continuously evolving. New features and improvements may be added in future updates.
